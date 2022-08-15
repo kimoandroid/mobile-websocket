@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebsocketExampleClient/WebsocketExampleClient.iml" filepath="$PROJECT_DIR$/WebsocketExampleClient/WebsocketExampleClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebsocketExampleClientProject.iml" filepath="$PROJECT_DIR$/WebsocketExampleClientProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.iml" filepath="$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/WebsocketExampleClient/WebsocketExampleClientProject.WebsocketExampleClient.unitTest.iml" />
     </modules>
   </component>
 </project>
-
